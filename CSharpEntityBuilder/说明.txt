@@ -1,0 +1,5 @@
+c#实体类生成器
+
+环境版本：.Net2.0
+
+作者blog：http://www.cnblogs.com/tuyile006
